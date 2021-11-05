@@ -144,6 +144,6 @@ source ~/.zshrc
 
 **iTerm(x64)**:
 
-![iTem(arm)](./resouces/../resources/iTerm-X64.png)
+![iTem(arm)](./resouces/../resources/iTerm-x64.png)
 
 > 如果需要这两个图标的 `icns` 文件，可在本项目的 `resources/` 下找到
